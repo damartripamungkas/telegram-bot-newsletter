@@ -1,0 +1,17 @@
+{
+  "telegram_bot_token": "{{TOKEN}}",
+  "default_user_reference": "ai_best",
+  "init_value_database": {
+    "admin_user_id": {
+      "191919191919": true
+    },
+    "reference": {
+      "ai_best": "AI Best",
+      "ai_chat": "AI Chat",
+      "ai_image": "AI Image",
+      "ai_text": "AI Text",
+      "ai_video": "AI Video",
+      "ai_coder": "AI Coder"
+    }
+  }
+}
